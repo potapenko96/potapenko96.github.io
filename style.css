@@ -45,7 +45,7 @@ body {
 #header-title {
 	font-family: Kaushan;
 	float: left;
-	margin-top: 40x;
+	margin-top: 40px;
 	font-size: 30px;
 	letter-spacing: 1.5px;
 }
@@ -54,7 +54,7 @@ body {
 	width: auto;
 	height: 38px;
 	//background-color: red;
-	margin-top: 40x;
+	margin-top: 40px;
 }
 .icon {
 	display: inline-block;
